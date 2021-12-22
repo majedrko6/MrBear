@@ -1,0 +1,2 @@
+The entire HTML5 folder except for this current file(Details.txt) is necessary for the game on HTML5 platforms.
+The main file that launches the game is the "index.html" file.
